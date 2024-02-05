@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "www.facebook.com/thelong.nguyen.10",
+      "destination": "https://www.facebook.com/thelong.nguyen.10",
       "permanent": true
     }
   ]
