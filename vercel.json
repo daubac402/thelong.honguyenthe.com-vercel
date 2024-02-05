@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "www.facebook.com/thelong.nguyen.10",
+      "permanent": true
+    }
+  ]
+}
